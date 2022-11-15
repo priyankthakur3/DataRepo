@@ -2,7 +2,18 @@
   {
     "id":0,
     "username" : "John Doe",
-    "task" : "wefw",
-    "Priority" : 2
-  }
+    "Status": "Active",
+    "Location": "US",
+    "Phone" : "1234567890",
+    "Data_usage" : 5622222,
+  },
+  
+  {
+    "id":1,
+    "username" : "Jane Doe",
+    "Status": "Active",
+    "Location": "US",
+    "Phone" : "1234567891",
+    "Data_usage" : 5622242,
+  },
 ]
