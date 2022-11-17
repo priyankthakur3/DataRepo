@@ -1,19 +1,71 @@
-[
-  {
-    "id":0,
-    "username" : "John Doe",
-    "Status": "Active",
-    "Location": "US",
-    "Phone" : "1234567890",
-    "Data_usage" : 5622222
-  },
-  
-  {
-    "id":1,
-    "username" : "Jane Doe",
-    "Status": "Active",
-    "Location": "US",
-    "Phone" : "1234567891",
-    "Data_usage" : 5622242
-  }
+[{
+		"id": 0,
+		"username": "John Doe",
+		"Status": "Active",
+		"Location": "US",
+		"email_id": "john.doe@myemail.com",
+		"Phone": "1234567890",
+		"Plan_Name": "Plan 1",
+		"Data_usage_Bytes": 5622222,
+		"Call_Seconds": 350,
+		"SMS_Used": 50,
+		"Plan_Expire_Date": "2022-12-31"
+	},
+
+	{
+		"id": 1,
+		"username": "Jane Doe",
+		"Status": "Active",
+		"Location": "US",
+		"email_id": "jane.doe@myemail.com",
+		"Phone": "1234567891",
+		"Plan_Name": "Plan 1",
+		"Data_usage_Bytes": 5622242,
+		"Call_Seconds": 350,
+		"SMS_Used": 50,
+		"Plan_Expire_Date": "2022-12-31"
+	},
+
+	{
+		"id": 2,
+		"username": "Sam Doe",
+		"Status": "Active",
+		"Location": "US",
+		"email_id": "sam.doe@myemail.com",
+		"Phone": "1234567892",
+		"Plan_Name": "Plan 1",
+		"Data_usage_Bytes": 5622242,
+		"Call_Seconds": 432,
+		"SMS_Used": 55,
+		"Plan_Expire_Date": "2022-12-15"
+	},
+
+	{
+		"id": 3,
+		"username": "Lee Doe",
+		"Status": "Inactive",
+		"Location": "US",
+		"email_id": "lee.doe@myemail.com",
+		"Phone": "1234567894",
+		"Plan_Name": "Plan 2",
+		"Data_usage_Bytes": 0,
+		"Call_Seconds": 0,
+		"SMS_Used": 0,
+		"Plan_Expire_Date": "2022-10-31"
+	},
+
+	{
+		"id": 4,
+		"username": "Jane Doe",
+		"Status": "Active",
+		"Location": "US",
+		"email_id": "jane.doe@myemail.com",
+		"Phone": "1234567895",
+		"Plan_Name": "Plan 2",
+		"Data_usage_Bytes": 6622242,
+		"Call_Seconds": 43,
+		"SMS_Used": 51,
+		"Plan_Expire_Date": "2022-12-15"
+	}
+
 ]
